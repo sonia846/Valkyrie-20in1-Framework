@@ -153,4 +153,8 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         print("\n[-] Framework engine shut down sequence triggered by keystroke.")
         sys.exit(0)
-              
+           "jwt_analyzer",
+"param_miner",
+"prototype_pollution",
+"xss_scanner",
+
